@@ -31,6 +31,7 @@ void Print(const T& data, string delim)
 		cout << item;
 		cout << delim;
 	}
+	cout << "\n";
 }
 
 
